@@ -10,4 +10,10 @@
      <!--  <class name="com.orangehr.tests.TestDemo2"/> -->
     </classes>
   </test> <!-- Test -->
+  <test name="Test2">
+    <classes>
+      <class name="com.orangehr.tests.TestDemo"/>
+     <!--  <class name="com.orangehr.tests.TestDemo2"/> -->
+    </classes>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
